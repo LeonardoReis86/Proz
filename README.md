@@ -15,5 +15,5 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 
 | No | Projetos                                                                                                                                           | 
 | ----- | ------------------------------------------------------------------------------------------------------------------------|
-| 1     | [Projeto1 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML)                             
-| 2    | [Projeto2](https://github.com/LeonardoReis86/Proz/blob/main/README.md)       
+| 1     | [Projeto1 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto1)                             
+| 2    | [Projeto2 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto2)       
