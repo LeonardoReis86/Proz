@@ -10,7 +10,7 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 <a href="https://git-scm.com/doc" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="logo git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/docs" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/1269807708014510180/1274165839494643742/github.png?ex=66c142e8&is=66bff168&hm=537c8b8308c530817ea445245c1fcd450bfd6edcf9602152006fbb3a2605b780&" alt="logo github" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="logo github" width="40" height="40"/> </a>
 <a href="https://docs.github.com/pt" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="logo vscode" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -25,4 +25,6 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 | No | Projetos                                                                                                                                           | 
 | ----- | ------------------------------------------------------------------------------------------------------------------------|
 | 1     | [Projeto1 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto1)                             
-| 2    | [Projeto2 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto2)       
+| 2    | [Projeto2 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto2)
+| 3     | [Projeto3 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto3)                             
+| 4    | [Projeto4 - HTML](https://github.com/LeonardoReis86/Proz/tree/main/04HTML/Projeto4)       
